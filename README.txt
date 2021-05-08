@@ -1,3 +1,10 @@
+###########
+Dans le sous-dossier Ressource, on trouve des csv de potentiels, le fichier 'total' utilisé dans
+eigenfaces.ipynb et les images créées avec ces csv (bruitées et originales)
+Dans le sous-dossier 'version PyMOL', on trouve les fichiers de code nécessaires
+pour lancer la version PyMOL du code, et un README explicatif de la méthode de son 
+utilisation
+
 ###############################################################################
 Pour main.py
 Avoir un dossier qui contient les fichiers pdb, un qui contient les fichiers main.py,
